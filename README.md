@@ -1,2 +1,2 @@
 # IVCexam
-Introduction to version control
+Introduction to git version control
